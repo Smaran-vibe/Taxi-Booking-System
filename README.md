@@ -12,18 +12,21 @@ The system supports multiple user roles including Passenger, Driver, and Admin w
 - Automatic fare calculation  
 - Route distance estimation  
 - Ride scheduling  
+- Rate Driver 
 
 ### Driver Panel
 - View assigned rides  
 - Manage ride status  
 - Trip tracking functionality
 - Accept/Cancel/Complete ride
+- View customer Ratings
 
 ### Admin Panel
 - Manage passengers and drivers  
 - Monitor ride activity  
 - Database management controls  
 - Assign Driver
+- View customer feedback
 
 
 
