@@ -16,12 +16,14 @@ The system supports multiple user roles including Passenger, Driver, and Admin w
 ### Driver Panel
 - View assigned rides  
 - Manage ride status  
-- Trip tracking functionality  
+- Trip tracking functionality
+- Accept/Cancel/Complete ride
 
 ### Admin Panel
 - Manage passengers and drivers  
 - Monitor ride activity  
 - Database management controls  
+- Assign Driver
 
 
 
