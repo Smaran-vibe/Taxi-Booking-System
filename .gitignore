@@ -1,0 +1,8 @@
+# Log file
+debug_log.txt
+
+# Python cache folder
+__pycache__/
+
+# Database file
+taxi_booking.db
